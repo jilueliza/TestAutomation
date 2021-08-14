@@ -1,2 +1,3 @@
 Sample file foe test automation
-Sample file for git hub
+Sample file for Git
+
