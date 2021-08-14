@@ -1,4 +1,4 @@
+
 Sample file foe test automation
 Sample file for Git
 Git merge conflict
-
