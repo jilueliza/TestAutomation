@@ -1,3 +1,4 @@
 test
 trying to make merge conflict
+String name;
 
